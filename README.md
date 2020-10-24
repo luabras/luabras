@@ -13,7 +13,7 @@ Skills: C++, Python, NetLogo, Qt, Git, Scrum
 🔭 I’m currently working on improving my skills. 
 🌱 I’m currently learning about computer vision, MediaPipe and Rust. 
 👯 I’m looking to collaborate on fun projects that involves C++, Python or that help me learning Rust! 
-🤔 I’m looking for help with learning about communication between MediaPipe and OpenCV. 
+🤔 I’m looking for help with learning about MediaPipe. 
 💬 Ask me about any of my skills! 
 📫 How to reach me: you can send me an email at luana_brasil@hotmail.com or on my social networks listed bellow! 
 😄 Pronouns: She/Her 
