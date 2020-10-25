@@ -10,12 +10,12 @@ C++ dev, AI enthusiast and excited about low level development, evolutionary com
 
 Skills: C++, Python, NetLogo, Qt, Git, Scrum
 
-🔭 I’m currently working on improving my skills. 
-🌱 I’m currently learning about computer vision, MediaPipe and Rust. 
-👯 I’m looking to collaborate on fun projects that involves C++, Python or that help me learning Rust! 
-🤔 I’m looking for help with learning about MediaPipe. 
-💬 Ask me about any of my skills! 
-📫 How to reach me: you can send me an email at luana_brasil@hotmail.com or on my social networks listed bellow! 
+🔭 I’m currently working on improving my skills.  
+🌱 I’m currently learning about computer vision, MediaPipe and Rust.  
+👯 I’m looking to collaborate on fun projects that involves C++, Python or that help me learning Rust!  
+🤔 I’m looking for help with learning about MediaPipe.  
+💬 Ask me about any of my skills!  
+📫 How to reach me: you can send me an email at luana_brasil@hotmail.com or on my social networks listed bellow!  
 😄 Pronouns: She/Her 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luabras)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luanabrasil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luabras92/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/luabras)  
